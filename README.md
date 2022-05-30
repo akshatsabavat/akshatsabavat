@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akshat Sabavat</h1>
 <h3 align="center">And i'm a web developer, UI/UX designer as well as an Electronics and Communications Engineering major</h3>
 
-- 🔭 I’m currently working on [E-Cell SNU's website](https://ecellsnu.com)
+- 🔭 I’m currently working on [Neat meals company](https://neatmeals.company/)
 
-- 🌱 I’m currently learning **Django, Angular, IOT**
+- 🌱 I’m currently learning **Svelte, Remix**
 
 - 💬 Ask me about **UI/UX Web design**
 

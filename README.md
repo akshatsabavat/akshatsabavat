@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshat Sabavat</h1>
 <h3 align="center">And i'm a web developer, UI/UX designer as well as an Electronics and Communications Engineering major</h3>
 
-- 🔭 I’m currently working on SnuXplore
-
-- 🌱 I’m currently learning **Svelte, Remix**
+- 🌱 I’m currently studying **Data Analytics**
 
 - 💬 Ask me about **UI/UX Web design**
 
